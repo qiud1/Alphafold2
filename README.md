@@ -1,2 +1,2 @@
 # MLBinfCapstone
-Implementing Google Deepmind's Alphafold2 for 3d protein structure prediction.
+Implementing Google DeepMind's Alphafold2 for 3d protein structure prediction.
